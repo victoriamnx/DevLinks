@@ -17,10 +17,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -44,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 💜 by Victória Nogueira e and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 💜 by Victória Nogueira and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
