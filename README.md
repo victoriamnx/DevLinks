@@ -1,6 +1,6 @@
-<h1 align="center"> DevLinks</h1>
+<h1 align="center">DevLinks</h1>
 
-<h3 align="center" >
+<h3 align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </h3>
 
