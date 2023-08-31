@@ -56,6 +56,7 @@ body * {
   width: 150px;
   border-radius: 100px;
   border: 1.5px solid rgba(255, 255, 255, 0.5);
+  user-select: none;
 }
 
 #profile p {
@@ -111,6 +112,7 @@ ul {
   flex-direction: column;
   padding: 24px 0;
   gap: 16px;
+  user-select: none;
 }
 
 li {
@@ -161,6 +163,7 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+  user-select: none;
 }
 
 footer span {
